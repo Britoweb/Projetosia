@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "projetosia-298013",
+  "private_key_id": "5ffcad0ab4116bb6a24ea15b76b3eb5b932eec8e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCZXNkDoNi+iplq\nFJqJSYOdEH8fb9+X5JbJHt4iATY2KZi7UJqIYp8LBie+/IVt03jPO15ncWHXBc9c\nTbBCPhof7PbgINVyUxY9JNVSHUl/4Mn0iLo7DExHiXNT3A5+ncsl8mAc94W7+75O\nSQ3zMaB4QWXjxUM0f4TzYjz0+ynIkX0Kjn3O06GviLv+7Qp4Ec67Z9ZpFbw9Bb4G\nD4gpTkpvkUYcJTKh7z3H64rKOj0+dT+JayJng08B1p2t6XYYbWQiPxkc+yeAQxmp\nGkJh5z7jTNUTxfGh25Q7xqilk3aaJ5y+Z47d3QJQwy8/4fYgWd552FILJxfs3hL3\nJcbIXntbAgMBAAECggEAOhUQeY/O1qceQC9Kcck+R9tqEcloaJnhw4zluwIzemLZ\nncOCqzmSm3W60tnHXNdU70NAVzP5RprENGSV5xinA0VXIH4+6HvwNbr/8Yf3AK/t\nPKgVw+w97W/wlieG88wmFpqLbR0PcKkAo5yGZH78k97MzG02rSjIfPbNOEjxQ6zD\nxOWrlxR7FqeEYp593c2UlXR/DPrui6y5HazwPak8k5Db9AKL6o1neBxmVzK67i29\nPF3Gy2W5dF5i17X1b+BB6tq4jRtQF4SyxFwfglWTiEf1MS2dAy/5kObtkKeDKMUZ\ndV7VWxCmQLCeRcthMSbALpbGTNhqGHcG5bezFicO6QKBgQDTXWH9rdMaO9113J8C\nOgDI5EGa/inn1V4Q3t9T8uOB5tECu4NYUFhpaPKrBVMrXbqUOwz9/OkOv2/ZP/wY\nn/c+O6pZ3nUDvyE1QBi4EVU6oxacit9aLQuw4pxMJVfxXak8BsYw4kGdJrr5Pgnv\nxBxcTDSiN4s0iPIF4T72r+ng4wKBgQC5v86KItj5FJPYXYI9+cMgiGfm0R5CkCUr\nbdltcbkhsN+U5V0i3JFY8UnoLzV3ND2GQxl5iqsy0wl9bn3KkwdMxKAxA+PV7SJi\nZVCRY/77Fpg9oOX9z1QOD2D4LNz6hQjvOMUFPePmUtdJYL3s3mofqPsAaLjgYpCD\n6poqfp1dKQKBgGaEVaIALHL99FVVU751uam2pGdzvYmXwM83+mQyW8zG0jucDYHJ\nPoiqAYGXzJYtGPEKjyul/rhLfAmIclLTS81gjSiXsHPHwWidlR+6MHeHYNE+vkRz\nssbxstNwDW6hehMGShytsRtzDJ8VSyaDHSpbP/AqNpedkJ3veWWXPz33AoGBAKM0\nm5YV3kykPu8Z4ijwPflkwN42mX7kxjPtdeBKzt6CWUCrcvUBlhfvEgAXEsQlO3Wv\nmT+Ijrm+YZU7Mv19yCk0jofiohpCHDcWS/8jPFOD28oyiEJFG9aqvonwaU0Y/Ous\nFrhvU8H4wb5waRApsFcXE0udt+s3z0CJLmHuE/hZAoGBAJBntEfg43CwzzBz0ghG\nGXtnvhU4ZD8mSbzzNq0LZjy8+RLXSnWjdwGbWkj9xsviWcDj1pJmkatkDNfQHMD2\nVfmxEa02+qKotBf2gCV1/wE1zxp0p7pIzLAAybI9ZjK91lawxtD216o+8ecZU8CT\nQCkCEoJFVBrc9XrNqZLYVH9q\n-----END PRIVATE KEY-----\n",
+  "client_email": "projetosia@projetosia-298013.iam.gserviceaccount.com",
+  "client_id": "117758215974069091252",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projetosia%40projetosia-298013.iam.gserviceaccount.com"
+}
